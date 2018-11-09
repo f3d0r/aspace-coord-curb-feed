@@ -19,6 +19,9 @@
     "dependencies": {
         "@turf/turf": "^5.1.6",
         "fs": "0.0.1-security",
+        "ip": "^1.1.5",
+        "logdna": "^2.0.4",
+        "os": "^0.1.1",
         "p-limit": "^2.0.0",
         "request": "^2.88.0"
     }
