@@ -1,0 +1,25 @@
+{
+    "name": "aspace_parking_data_import",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@gitlab.com/aspace/curb-data-feed.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://gitlab.com/aspace/curb-data-feed/issues"
+    },
+    "homepage": "https://gitlab.com/aspace/curb-data-feed#README",
+    "dependencies": {
+        "@turf/turf": "^5.1.6",
+        "fs": "0.0.1-security",
+        "p-limit": "^2.0.0",
+        "request": "^2.88.0"
+    }
+}
